@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/admin_graph"
+    app:startDestination="@id/cricketFragment">
+    <fragment
+        android:id="@+id/cricketFragment"
+        android:name="com.example.scoretracker.admin.cricket.AdminCricketFragment"
+        android:label="fragment_cricket"
+        tools:layout="@layout/fragment_admin_cricket" />
+</navigation>

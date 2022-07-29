@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/APp/ScoreTracker/app/src/main/res/layout/activity_admin.xml" value="0.14375" />
+        <entry key="..\:/APp/ScoreTracker/app/src/main/res/layout/activity_auth.xml" value="0.14375" />
+        <entry key="..\:/APp/ScoreTracker/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/APp/ScoreTracker/app/src/main/res/layout/activity_user.xml" value="0.14375" />
+        <entry key="..\:/APp/ScoreTracker/app/src/main/res/layout/fragment_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/APp/ScoreTracker/app/src/main/res/layout/fragment_signup.xml" value="0.14375" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/drawable/ic_sports_cricket.xml" value="0.1335" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/drawable/ic_sports_soccer.xml" value="0.1335" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/layout/activity_admin.xml" value="0.176" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/layout/activity_auth.xml" value="0.1" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/layout/cricket_match_item.xml" value="0.1" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/layout/fragment_add_cricket_match.xml" value="0.176" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/layout/fragment_admin_cricket.xml" value="0.27447916666666666" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/layout/fragment_admin_cricket_matches.xml" value="0.3072916666666667" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/layout/fragment_cricket.xml" value="0.12291666666666666" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/layout/fragment_edit_cricket_match.xml" value="0.264" />
+        <entry key="..\:/App/ScoreTracker/app/src/main/res/menu/bottom_menu.xml" value="0.1765625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

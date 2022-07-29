@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScoreTracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score_string">%s/%s</string>
+    <string name="overs_string">%s out of %s overs</string>
+    <string name="team1vsteam_2">%s\nvs\n%s</string>
+    <string name="target">Target: %s</string>
+</resources>
